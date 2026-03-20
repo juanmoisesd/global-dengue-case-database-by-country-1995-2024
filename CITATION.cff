@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this dataset using the metadata below."
+type: dataset
+title: "Global Dengue: Case Database by Country (1995-2024)"
+authors:
+  - family-names: "de la Serna Tuya"
+    given-names: "Juan Moisés"
+    orcid: "https://orcid.org/0000-0002-8401-8018"
+    affiliation: "Universidad Internacional de La Rioja (UNIR)"
+doi: "10.5281/zenodo.18881114"
+url: "https://doi.org/10.5281/zenodo.18881114"
+repository-code: "https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024"
+license: CC0-1.0
+date-released: "2026-03-05"
+keywords:
+
