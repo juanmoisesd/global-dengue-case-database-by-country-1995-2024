@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Database of confirmed and reported dengue cases in 31 countries across Latin America, South Asia, and Southeast Asia, with time series from 1995 to 2024. Data compiled from PAHO/WHO and national health ministries.",
+  "description": "Database of confirmed and reported dengue cases in 31 countries across Latin America, South Asia, and Southeast Asia, with time series from 1995 to 2024. Data compiled from PAHO/WHO and national health ministries.",
+  "url": "https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024",
+  "sameAs": "https://juanmoisesd.github.io/global-dengue-case-database-by-country-1995-2024/",
+  "identifier": "https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024",
+  "author": {
+    "@type": "Person",
+    "name": "Juan Moisés de la Serna Tuya",
+    "@id": "https://orcid.org/0000-0002-8401-8018",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Universidad Internacional de La Rioja (UNIR)"
+    },
+    "email": "juanmoises.delaserna@unir.net"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)",
+    "url": "https://www.unir.net"
+  },
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "datePublished": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "keywords": "cc0, dataset, open-data, zenodo",
+  "inLanguage": [
+    "es",
+    "en"
+  ],
+  "isAccessibleForFree": true,
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024"
+    }
+  ]
+}
