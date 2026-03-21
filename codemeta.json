@@ -1,17 +1,43 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
-  "@type": "Dataset",
-  "name": "Global Dengue: Case Database by Country (1995-2024)",
-  "identifier": "10.5281/zenodo.18881114",
-  "url": "https://doi.org/10.5281/zenodo.18881114",
+  "@type": "SoftwareSourceCode",
+  "name": "Database of confirmed and reported dengue cases in 31 countries across Latin America, South Asia, and Southeast Asia, with time series from 1995 to 2024. Data compiled from PAHO/WHO and national health ministries.",
+  "description": "Database of confirmed and reported dengue cases in 31 countries across Latin America, South Asia, and Southeast Asia, with time series from 1995 to 2024. Data compiled from PAHO/WHO and national health ministries.",
+  "url": "https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024",
+  "codeRepository": "https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024",
+  "dateCreated": "2026-03-20",
+  "dateModified": "2026-03-20",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "version": "1.0.0",
   "author": [
     {
       "@type": "Person",
-      "givenName": "Juan Mois\u00e9s",
+      "givenName": "Juan Moisés",
       "familyName": "de la Serna Tuya",
-      "@id": "https://orcid.org/0000-0002-8401-8018"
+      "@id": "https://orcid.org/0000-0002-8401-8018",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      },
+      "email": "juanmoises.delaserna@unir.net"
     }
   ],
-  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "keywords": []
+  "keywords": [
+    "cc0",
+    "dataset",
+    "open-data",
+    "zenodo"
+  ],
+  "programmingLanguage": "HTML",
+  "maintainer": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna Tuya"
+    }
+  ],
+  "funder": {
+    "@type": "Organization",
+    "name": "Universidad Internacional de La Rioja (UNIR)"
+  }
 }
