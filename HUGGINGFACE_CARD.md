@@ -1,6 +1,6 @@
 ---
 language:
-  - en
+  - es
 license: cc-by-4.0
 task_categories:
   - tabular-classification
@@ -24,23 +24,15 @@ tags:
   - research
   - zenodo
   - zenodo
-  - research
   - latin-america
   - open-science
 ---
-
 # Database of confirmed and reported dengue cases in 31 countries across Latin Ame
-
-**DOI:** [https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024](https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024) | **GitHub:** [juanmoisesd/global-dengue-case-database-by-country-1995-2024](https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024) | **License:** CC BY 4.0
-
-## Quick load
+**DOI:** [https://juanmoisesd.github.io/global-dengue-case-database-by-country-1995-2024/](https://juanmoisesd.github.io/global-dengue-case-database-by-country-1995-2024/) | **Author:** de la Serna, Juan Moisés | **License:** CC BY 4.0
 ```python
 import pandas as pd
-# See https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024 for file listing
 df = pd.read_csv("URL_FROM_ZENODO")
 ```
-
-## Cite
 ```bibtex
-@dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Database of confirmed and reported dengue cases in 31 countr},year={2025},doi={https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024},url={https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024}}
+@dataset{ds2025,author={de la Serna, Juan Moisés},title={Database of confirmed and reported dengue cases in 31 countr},year={2025},doi={https://juanmoisesd.github.io/global-dengue-case-database-by-country-1995-2024/},url={https://juanmoisesd.github.io/global-dengue-case-database-by-country-1995-2024/}}
 ```
