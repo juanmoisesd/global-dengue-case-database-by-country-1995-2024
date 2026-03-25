@@ -1,0 +1,23 @@
+{
+  "title": "Database of confirmed and reported dengue cases in 31 countries across Latin Ame",
+  "id": "juanmoisesd/global-dengue-case-database-by-country-1995-2024",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "citation",
+    "dataset",
+    "epidemiology",
+    "fair-data",
+    "global-health",
+    "iberoamerica",
+    "infectious-diseases",
+    "juan-moises-de-la-serna",
+    "latam"
+  ],
+  "description": "Database of confirmed and reported dengue cases in 31 countries across Latin America, South Asia, and Southeast Asia, with time series from 1995 to 2024. Data compiled from PAHO/WHO and national health ministries.\n\nDOI: https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024\nGitHub: https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
