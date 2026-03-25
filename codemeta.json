@@ -3,8 +3,7 @@
   "@type": "SoftwareSourceCode",
   "name": "Database of confirmed and reported dengue cases in 31 countries across Latin America, South Asia, an",
   "version": "1.0.0",
-  "identifier": "https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024",
-  "datePublished": "2025",
+  "identifier": "https://juanmoisesd.github.io/global-dengue-case-database-by-country-1995-2024/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "codeRepository": "https://github.com/juanmoisesd/global-dengue-case-database-by-country-1995-2024",
   "author": [
@@ -21,6 +20,5 @@
   "programmingLanguage": [
     "Python",
     "Jupyter Notebook"
-  ],
-  "keywords": "cc0, citation, dataset, epidemiology, fair-data, global-health, iberoamerica, infectious-diseases, juan-moises-de-la-serna, latam, latin-america, open-data, open-science, orcid, public-health, research, zenodo"
+  ]
 }
